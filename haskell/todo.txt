@@ -1,0 +1,3 @@
+learn about monads
+learn how to run stuff without compiling
+read a game of thrones
