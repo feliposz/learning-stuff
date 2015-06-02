@@ -1,0 +1,38 @@
+Servlet
+-------
+
+Servlet é um pequeno servidor capaz de receber e tratar conexões.
+O tipo mais comum é o Servlet HTTP que trata conexões WEB.
+Funciona de forma análoga ao padrão CGI, mas enquanto esse cria processos separados, os Servlets são Threads.
+
+
+Exemplo de Servlet HTTP:
+
+
+public class OiMundo extends HttpServlet {
+
+    protected void service (HttpServletRequest request, HttpServletResponse response)
+        throws ServletException, IOException
+    {
+
+        PrintWriter out = response.getWriter();
+
+        out.println("<html>"):
+        out.println("<body>"):
+        out.println("Primeira servlet");
+        out.println("</body>"):
+        out.println("</html>"):
+    }
+
+}
+
+Para mapear a execução de um Servlet a uma requisição, editar o arquivo web.cml na pasta WEB-INF.
+
+<servlet>
+    <servlet-name>primeiraServlet</servlet-name>
+    <servlet-class>br.com.caelum.servlet.OiMundo</servlet-class>
+</servlet>
+
+// TODO: Trazer para cá anotações feitas no código
+
+

@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" style="height: 100%;">
+  <head>
+    <title>This is CS 50</title>
+    <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAA8igYd929VTmOEMLNjNyP1xRlwc2tle15lR8R1UPW8rbyw_fpJhRsfgSFRAVE9VA36EfXxMH-MO33Eg" type="text/javascript"></script>
+    <script type="text/javascript">
+    // <![CDATA[
+
+      function load() 
+      {
+          if (GBrowserIsCompatible()) 
+          {
+              var map = new GMap2(document.getElementById("map"));
+              map.setMapType(G_SATELLITE_MAP);
+              map.addControl(new GLargeMapControl());
+              map.addControl(new GMapTypeControl());
+              map.setCenter(new GLatLng(42.37411257777324, -71.11905097961426), 1);
+
+              GDownloadUrl("placemarks.kml", function(data) 
+              {
+                  var xml = GXml.parse(data);
+                  var placemarks = xml.documentElement.getElementsByTagName("Placemark");
+                  for (var i = 0; i < placemarks.length; i++) 
+                  {
+                      var name = placemarks[i].getElementsByTagName("name")[0].firstChild.nodeValue;
+                      var coordinates = placemarks[i].getElementsByTagName("coordinates")[0].firstChild.nodeValue.split(",");
+                      var point = new GLatLng(parseFloat(coordinates[1]), coordinates[0]);
+                      var marker = createMarker(point, name);
+                      map.addOverlay(marker);
+                  }
+              });
+          }
+      }
+
+      function createMarker(point, description)
+      {
+          var marker = new GMarker(point);
+          var html = "<b>" + description + "</b>";
+          GEvent.addListener(marker, "click", function() {
+              marker.openInfoWindowHtml(html);
+          });
+          return marker;
+      }
+
+   // ]]>
+  </script>
+
+  </head>
+
+  <body onload="load()" onunload="GUnload()" style="height: 100%; margin: 0;">
+    <div id="map" style="height: 100%; width: 100%;"></div>
+  </body>
+</html>

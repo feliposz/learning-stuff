@@ -1,0 +1,35 @@
+pacote: java.sql.*
+
+string de conexão:
+jdbc:mysql://ip/nome_do_banco
+
+Exemplo conectando e fechando conexão:
+
+Connection con = DriverManager.getConnection("jdbc:mysql://ip/nome_do_banco");
+con.close();
+
+Em versões anteriores do JDBC (<4) ou no Tomcat (>=7):
+Class.forName("com.mysql.jdbc.Driver"); // chamar antes do DriverManager
+
+PreparedStatement stmt = connection.prepareStatement(
+    "insert into tabela (col1, col2, col3) values (?, ?, ?)");
+stmt.setString(1, "valor1");
+stmt.setInt(2, 12345);
+stmt.setDate(3, objDate);
+
+// Para statements genéricos
+stmt.execute();
+
+// Para statements de atualização (INSERT, UPDATE, DELETE)
+stmt.executeUpdate()
+
+// Para queries
+ResultSet rs = stmt.executeQuery();
+
+while (rs.next()) {
+    String col1 = rs.getString("col1"):
+    int col2 = rs.getInt("col2"):
+    ...
+}
+
+stmt.close();

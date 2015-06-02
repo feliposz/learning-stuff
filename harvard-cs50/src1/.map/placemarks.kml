@@ -1,0 +1,2274 @@
+<?xml version="1.0"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Folder>
+    <name>This is CS 50</name>
+    <Placemark>
+      <name>02148</name>
+      <Point>
+        <coordinates>-71.0557196,42.4326041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>18103</name>
+      <Point>
+        <coordinates>-75.4927278,40.5719198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abingdon, VA, 24211, USA</name>
+      <Point>
+        <coordinates>-81.9718720,36.7116430,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abuja, Nigeria</name>
+      <Point>
+        <coordinates>7.4890610,9.0580360,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Albany, CA 94706 USA</name>
+      <Point>
+        <coordinates>-122.2965778,37.8883952,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Albuquerque, NM, 87111</name>
+      <Point>
+        <coordinates>-106.4994889,35.1322706,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alpharetta, GA, 30005, USA</name>
+      <Point>
+        <coordinates>-84.2384170,34.0740175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alpine, NJ, 07620, USA</name>
+      <Point>
+        <coordinates>-73.9242251,40.9538359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ambler, PA, 19002, USA</name>
+      <Point>
+        <coordinates>-75.2166670,40.1577510,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amherst, MA, 01002, USA</name>
+      <Point>
+        <coordinates>-72.4968189,42.3403799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Andover, MA, 01810, USA</name>
+      <Point>
+        <coordinates>-71.1406050,42.6566250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ankeny, IA, 50021, USA</name>
+      <Point>
+        <coordinates>-93.6004330,41.7214590,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ann Arbor, MI, 48104</name>
+      <Point>
+        <coordinates>-83.7146001,42.2660881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Asheville, NC, 28804</name>
+      <Point>
+        <coordinates>-82.5726805,35.6535604,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Athens, GA 30622, USA</name>
+      <Point>
+        <coordinates>-83.5176820,33.9049405,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atlanta, Georgia, 30331, United States</name>
+      <Point>
+        <coordinates>-84.5431867,33.6985650,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baia Mare, Romania</name>
+      <Point>
+        <coordinates>23.5905700,47.6544610,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baltimore, MD, 21212, USA</name>
+      <Point>
+        <coordinates>-76.6123884,39.3641330,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barrington, RI, 02806, USA</name>
+      <Point>
+        <coordinates>-71.3289936,41.7432136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayside, NY, 11361, USA</name>
+      <Point>
+        <coordinates>-73.7742616,40.7622954,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bedford, NH, 03110, USA</name>
+      <Point>
+        <coordinates>-71.5486562,42.9457529,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bedford, NY, 10506, USA</name>
+      <Point>
+        <coordinates>-73.6446630,41.2018190,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beijing, 100086, China</name>
+      <Point>
+        <coordinates>118.6791180,42.9747420,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beijing, China</name>
+      <Point>
+        <coordinates>116.3979471,39.9081726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belleville, IL, 62226, EEUU</name>
+      <Point>
+        <coordinates>-90.0093266,38.5375354,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bellmore, NY, 11710, USA</name>
+      <Point>
+        <coordinates>-73.5257420,40.6637030,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bennington, VT, 05201, United States</name>
+      <Point>
+        <coordinates>-73.1861650,42.8788910,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berkeley, CA, 94703, USA</name>
+      <Point>
+        <coordinates>-122.2738958,37.8524741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berkeley, CA, 94707, United States</name>
+      <Point>
+        <coordinates>-122.2795667,37.8983665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bethesda, MD 20817</name>
+      <Point>
+        <coordinates>-77.1213820,38.9899770,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bethlehem, PA, 18017, USA</name>
+      <Point>
+        <coordinates>-75.3761952,40.6564328,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boca Raton, FL, 33498-6204, USA</name>
+      <Point>
+        <coordinates>-80.2209773,26.4023755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boston, MA, 02114, USA</name>
+      <Point>
+        <coordinates>-71.0646337,42.3652917,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boston, MA, 02132, USA</name>
+      <Point>
+        <coordinates>-71.1626756,42.2797554,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boston, MA, 02138</name>
+      <Point>
+        <coordinates>-71.0854325,42.3094288,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boulder, CO, 80304, USA</name>
+      <Point>
+        <coordinates>-105.3014109,40.0481194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bowling Green, KY 42104, USA</name>
+      <Point>
+        <coordinates>-86.4456990,36.9712440,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boxford, MA 01921, USA</name>
+      <Point>
+        <coordinates>-70.9767560,42.6694280,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Braintree, MA 02184</name>
+      <Point>
+        <coordinates>-71.0141180,42.2020445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brampton, Ontario, L6P1E9, Canada</name>
+      <Point>
+        <coordinates>-79.7316120,43.7777940,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Branchburg, NJ, 08876, USA</name>
+      <Point>
+        <coordinates>-74.6985891,40.5868114,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Briarwood, NY 11435 USA</name>
+      <Point>
+        <coordinates>-73.8154394,40.7089491,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bridgeport, WV, 26330, USA</name>
+      <Point>
+        <coordinates>-80.2506250,39.2959320,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bridgewater, NJ, 08807, USA</name>
+      <Point>
+        <coordinates>-74.6231930,40.5989090,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bronxville, NY, 10708, US</name>
+      <Point>
+        <coordinates>-73.8183880,40.9349080,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brookline,MA,02446</name>
+      <Point>
+        <coordinates>-71.1240559,42.3421605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn, NY 11231</name>
+      <Point>
+        <coordinates>-74.0035709,40.6764476,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn, NY, 11204, USA</name>
+      <Point>
+        <coordinates>-73.9859414,40.6195067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn, NY, 11215, USA</name>
+      <Point>
+        <coordinates>-73.9800645,40.6632194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn, NY, 11218, USA</name>
+      <Point>
+        <coordinates>-73.9741874,40.6425910,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buenos Aires, Argentina</name>
+      <Point>
+        <coordinates>-58.3731613,-34.6084175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buffalo, NY, 14051, USA</name>
+      <Point>
+        <coordinates>-78.7027835,43.1032390,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambridge</name>
+      <Point>
+        <coordinates>-71.1184870,42.3753920,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambridge, 02140</name>
+      <Point>
+        <coordinates>-71.1299976,42.3906856,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambridge, MA, 02138, USA</name>
+      <Point>
+        <coordinates>-71.1389101,42.3803274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambridge, MA, 02140, USA</name>
+      <Point>
+        <coordinates>-71.1299976,42.3906856,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambridge, MA, 02141, USA</name>
+      <Point>
+        <coordinates>-71.0809757,42.3692694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canton, MI, 48187, USA</name>
+      <Point>
+        <coordinates>-83.4963567,42.3373253,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canton, MS 39046 USA</name>
+      <Point>
+        <coordinates>-90.0205900,32.6041200,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cazenovia, NY, 13035, USA</name>
+      <Point>
+        <coordinates>-75.8509260,42.9298840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centerville, Massachusetts, 02632, USA</name>
+      <Point>
+        <coordinates>-70.3479500,41.6488500,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlotte, NC, 28226, USA</name>
+      <Point>
+        <coordinates>-80.7990185,35.1173473,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chengdu, China</name>
+      <Point>
+        <coordinates>104.0648570,30.6586020,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chestnut Hill, MA, 02467, USA</name>
+      <Point>
+        <coordinates>-71.1661111,42.3305556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chestnut Ridge, New York, 10977, USA</name>
+      <Point>
+        <coordinates>-74.0562130,41.0842340,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago, IL 60622</name>
+      <Point>
+        <coordinates>-87.6827676,41.9013087,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago, IL, 60610, USA</name>
+      <Point>
+        <coordinates>-87.6359125,41.9028369,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago, IL, 60614, USA</name>
+      <Point>
+        <coordinates>-87.6531805,41.9205483,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago, IL, 60630</name>
+      <Point>
+        <coordinates>-87.7615726,41.9722704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Christchurch, New Zealand</name>
+      <Point>
+        <coordinates>172.6366450,-43.5316370,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cincinnati, OH, 45240, USA</name>
+      <Point>
+        <coordinates>-84.5327038,39.2858588,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Closter, NJ, 07624, USA</name>
+      <Point>
+        <coordinates>-73.9653715,40.9744625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colorado Springs, CO, 80919, USA</name>
+      <Point>
+        <coordinates>-104.8571368,38.9331665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Concord, MA, 01742, USA</name>
+      <Point>
+        <coordinates>-71.3705616,42.4527187,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cornwall-on-Hudson, NY, 12520, USA</name>
+      <Point>
+        <coordinates>-74.0133210,41.4440650,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cumberland,  ME 04110 USA</name>
+      <Point>
+        <coordinates>-70.2044867,43.7594340,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cupertino, CA 95014 USA</name>
+      <Point>
+        <coordinates>-122.0439760,37.3158130,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cupertino, California, 95014, USA</name>
+      <Point>
+        <coordinates>-122.0439760,37.3158130,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Depew, NY, 14043, USA</name>
+      <Point>
+        <coordinates>-78.7048520,42.9106570,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Derry, NH, 03038, USA</name>
+      <Point>
+        <coordinates>-71.3135520,42.8943050,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Detroit, Michigan, 48334, United States</name>
+      <Point>
+        <coordinates>-83.3508830,42.5120540,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dix Hills, NY, 11746, USA</name>
+      <Point>
+        <coordinates>-73.3355690,40.8006910,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Doha, Qatar</name>
+      <Point>
+        <coordinates>51.5175410,25.2818920,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dresher, Pennsylvania 19025</name>
+      <Point>
+        <coordinates>-75.1663910,40.1405290,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dundas, ON, Canada</name>
+      <Point>
+        <coordinates>-79.9520750,43.2633280,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E Setauket, NY, 11733, USA</name>
+      <Point>
+        <coordinates>-73.1060060,40.9414260,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELDORET - KENYA</name>
+      <Point>
+        <coordinates>35.2663690,0.5152400,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eastlake, Ohio, 44095, USA</name>
+      <Point>
+        <coordinates>-81.4275710,41.6592070,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eden Prairie, MN, 55346, US</name>
+      <Point>
+        <coordinates>-93.4902391,44.8814895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edgewood, KY 41017</name>
+      <Point>
+        <coordinates>-84.5599730,39.0061240,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edina, MN, 55439, USA</name>
+      <Point>
+        <coordinates>-93.3741647,44.8709601,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edina, MN, 55439, USA and Abidjan, Cote d'Ivoire</name>
+      <Point>
+        <coordinates>-4.0277510,5.3363180,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edinburg, Tx, 78542, usa</name>
+      <Point>
+        <coordinates>-98.1667050,26.3091480,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edison, NJ</name>
+      <Point>
+        <coordinates>-74.3957830,40.5367690,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edison, NJ 08820</name>
+      <Point>
+        <coordinates>-74.3704770,40.5816630,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edison, NJ 08820, USA</name>
+      <Point>
+        <coordinates>-74.3704770,40.5816630,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Paso, TX, 02138, USA</name>
+      <Point>
+        <coordinates>-95.2961830,29.7711520,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Essex, MA, 01929, USA</name>
+      <Point>
+        <coordinates>-70.7744460,42.6307050,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evanston, IL 60202, USA</name>
+      <Point>
+        <coordinates>-87.6926257,42.0303270,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evanston, IL, 60201, USA</name>
+      <Point>
+        <coordinates>-87.7024817,42.0602081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Everett, MA, 02149, USA</name>
+      <Point>
+        <coordinates>-71.0557196,42.4041313,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Exton, PA, 19341, USA</name>
+      <Point>
+        <coordinates>-75.6281770,40.0282040,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmingdale, NY 11735 USA</name>
+      <Point>
+        <coordinates>-73.4458780,40.7329110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fayetteville, AR, 72704, USA</name>
+      <Point>
+        <coordinates>-94.2948884,36.1212203,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fenton, MO, 63026, USA</name>
+      <Point>
+        <coordinates>-90.4524240,38.5425910,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flushing, NY, 11354</name>
+      <Point>
+        <coordinates>-73.8272029,40.7699016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fountain Valley, CA 92708</name>
+      <Point>
+        <coordinates>-117.9600466,33.7168761,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Freeport, ME, 04032, USA</name>
+      <Point>
+        <coordinates>-70.1027690,43.8573250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fremont, CA, 94539, USA</name>
+      <Point>
+        <coordinates>-121.9131761,37.5340363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fujimi, Saitama, 3540017, Japan</name>
+      <Point>
+        <coordinates>139.5572910,35.8317618,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glen Rock, NJ, 07452, USA</name>
+      <Point>
+        <coordinates>-74.1298684,40.9583569,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glendale, AZ, 85303, USA</name>
+      <Point>
+        <coordinates>-112.2205183,33.5282033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gonic, NH, 03839, United States</name>
+      <Point>
+        <coordinates>-70.9820290,43.2748480,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greenville, SC, 29607, United States of America</name>
+      <Point>
+        <coordinates>-82.3912850,34.8551370,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gweru, Zimbabwe</name>
+      <Point>
+        <coordinates>29.8177390,-19.4513210,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haddonfield, NJ, 08033, United States</name>
+      <Point>
+        <coordinates>-75.0374870,39.8953710,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hanover MA</name>
+      <Point>
+        <coordinates>-70.8476708,42.1162217,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hawthorne, ca, 90250, USA</name>
+      <Point>
+        <coordinates>-118.3520389,33.9127807,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hercules, CA, 94547, USA</name>
+      <Point>
+        <coordinates>-122.2597170,38.0067400,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hewlett, NY, 11598, USA</name>
+      <Point>
+        <coordinates>-73.6981280,40.6414380,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highland Park, NJ, 08904, USA</name>
+      <Point>
+        <coordinates>-74.4233740,40.5007490,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hilo, HI, 96720, USA</name>
+      <Point>
+        <coordinates>-155.0904230,19.6932250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hingham, MA, 02043, USA</name>
+      <Point>
+        <coordinates>-70.8878000,42.2366600,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hlotse, Leribe, Lesotho</name>
+      <Point>
+        <coordinates>28.0417239,-28.8724970,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ho-Ho-Kus, NJ, USA</name>
+      <Point>
+        <coordinates>-74.0931560,41.0023600,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holladay, Utah, 84121, USA</name>
+      <Point>
+        <coordinates>-111.8392590,40.6658860,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hollywood, FL, 33021, USA</name>
+      <Point>
+        <coordinates>-80.1930859,26.0204621,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hong Kong, China</name>
+      <Point>
+        <coordinates>114.2390498,22.3203365,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horseheads, NY, 14845, USA</name>
+      <Point>
+        <coordinates>-76.8322110,42.1680210,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Houston, TX, 77062, USA</name>
+      <Point>
+        <coordinates>-95.1379946,29.5797532,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Houston, Texas, 77096, USA</name>
+      <Point>
+        <coordinates>-95.4830243,29.6699914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hudson, OH, 44236, United States</name>
+      <Point>
+        <coordinates>-81.4404300,41.2399700,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hull, MA 02138</name>
+      <Point>
+        <coordinates>-71.1855190,42.3845130,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huntington Beach, CA, 92648, USA</name>
+      <Point>
+        <coordinates>-118.0068979,33.6847841,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huntsville, AL, 35803, USA</name>
+      <Point>
+        <coordinates>-86.5299673,34.5590673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Irvine, CA 92618</name>
+      <Point>
+        <coordinates>-117.7256083,33.6915700,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jackson, MS, 39211, USA</name>
+      <Point>
+        <coordinates>-90.1261013,32.3730312,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jacksonville, FL, 32257, U.S.</name>
+      <Point>
+        <coordinates>-81.6144680,30.2018746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jeddah, Saudia Arabia</name>
+      <Point>
+        <coordinates>39.1729892,21.5434857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jenks, OK, 74037, USA</name>
+      <Point>
+        <coordinates>-95.9726832,35.9952581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kearney, NE 68845, United States of America</name>
+      <Point>
+        <coordinates>-99.0885130,40.7005760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kuala Lumpur, Malaysia</name>
+      <Point>
+        <coordinates>101.6868550,3.1390030,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kula, Hawaii, 96790, USA</name>
+      <Point>
+        <coordinates>-156.3557299,20.6452754,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lafayette, CA, 94549, USA</name>
+      <Point>
+        <coordinates>-122.1187660,37.8920250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lagos, Nigeria</name>
+      <Point>
+        <coordinates>3.4179770,6.4411580,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Forest, Illinois 60045</name>
+      <Point>
+        <coordinates>-87.8623630,42.2398950,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake in the Hills, Illinois, 60156, USA</name>
+      <Point>
+        <coordinates>-88.3142120,42.1942996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lancaster, PA, 17601, USA</name>
+      <Point>
+        <coordinates>-76.3019350,40.0415700,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lancaster, PA, 17603, USA</name>
+      <Point>
+        <coordinates>-76.3019350,40.0415700,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lansdale, PA 19446, USA</name>
+      <Point>
+        <coordinates>-75.2837470,40.2415630,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larchmont, NY, 10538, USA</name>
+      <Point>
+        <coordinates>-73.7508330,40.9295150,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Largo, Fl, 33777, USA</name>
+      <Point>
+        <coordinates>-82.7616822,27.8580624,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laurel, MD 20723 USA</name>
+      <Point>
+        <coordinates>-76.8663307,39.1382143,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lawrenceville, NJ, 08648, USA</name>
+      <Point>
+        <coordinates>-74.7293500,40.2979810,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lighthouse Point, FL, 33064, USA</name>
+      <Point>
+        <coordinates>-80.0969870,26.2793030,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lima, Ohio, 45805, United States</name>
+      <Point>
+        <coordinates>-84.1540659,40.7199785,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lincoln, NE, 68512, USA</name>
+      <Point>
+        <coordinates>-96.6958939,40.7343865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Little Neck, NY 11363</name>
+      <Point>
+        <coordinates>-73.7448437,40.7728635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Livermore, CA 94550 U.S.A.</name>
+      <Point>
+        <coordinates>-121.7683630,37.6820320,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Logan, UT, 84341, USA</name>
+      <Point>
+        <coordinates>-111.7972384,41.7773889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Logan, Utah, 84341, USA</name>
+      <Point>
+        <coordinates>-111.7972384,41.7773889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London, England</name>
+      <Point>
+        <coordinates>-0.1262362,51.5001524,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Altos Hills, CA 94022, United States</name>
+      <Point>
+        <coordinates>-122.1369230,37.3686580,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Altos, CA, 94024, USA</name>
+      <Point>
+        <coordinates>-122.0960340,37.3691100,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Angeles, CA, 90005, USA</name>
+      <Point>
+        <coordinates>-118.3096648,34.0578814,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Angeles, California, 90033, USA</name>
+      <Point>
+        <coordinates>-118.2117257,34.0502898,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Louisville, Kentucky, 40225, USA</name>
+      <Point>
+        <coordinates>-85.7595000,38.2545000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowell, Massachusetts, 01851, USA</name>
+      <Point>
+        <coordinates>-71.3408707,42.6325727,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lynn, MA 01902 USA</name>
+      <Point>
+        <coordinates>-70.9398192,42.4719938,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Macon, GA, 31216, United States of America</name>
+      <Point>
+        <coordinates>-83.6986568,32.7180396,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Madison, WI 53711 USA</name>
+      <Point>
+        <coordinates>-89.3890570,43.0081475,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Madison, WI 53713</name>
+      <Point>
+        <coordinates>-89.3937930,43.0421755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malvern, PA, 19355, USA</name>
+      <Point>
+        <coordinates>-75.5097390,40.0247070,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manchester, MA, 01944</name>
+      <Point>
+        <coordinates>-70.7703703,42.5822875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manhattan Beach, California, 90266, USA</name>
+      <Point>
+        <coordinates>-118.3987842,33.8908371,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mareitta, GA, 30067, USA</name>
+      <Point>
+        <coordinates>-84.4697663,33.9290987,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marietta, GA, 30062, United States</name>
+      <Point>
+        <coordinates>-84.5359480,33.9505170,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marshfield, MA, 02050, USA</name>
+      <Point>
+        <coordinates>-70.7049860,42.0919900,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Medford MA</name>
+      <Point>
+        <coordinates>-71.1103260,42.4248980,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melbourne Beach, FL, 32951, USA</name>
+      <Point>
+        <coordinates>-80.5607990,28.0683800,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Memphis, TN, 38106, US</name>
+      <Point>
+        <coordinates>-90.0279867,35.0938626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Menlo Park, CA, 94025, USA</name>
+      <Point>
+        <coordinates>-122.1802812,37.4484914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Miami, FL, 33012, USA</name>
+      <Point>
+        <coordinates>-80.3101684,25.8703495,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Miami, FL, 33179, USA</name>
+      <Point>
+        <coordinates>-80.1819268,25.9611915,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Middletown, MD, 21769, US</name>
+      <Point>
+        <coordinates>-77.5368340,39.4414750,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mill River, MA, 01244, USA</name>
+      <Point>
+        <coordinates>-73.1910115,42.1427622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Milton, MA 02186</name>
+      <Point>
+        <coordinates>-71.0854325,42.2332830,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Milwaukee, WI</name>
+      <Point>
+        <coordinates>-87.9144800,43.0401820,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Milwaukee, WI, 53217, USA</name>
+      <Point>
+        <coordinates>-87.9040571,43.1652687,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Minneapolis, MN 55416 USA</name>
+      <Point>
+        <coordinates>-93.3439291,44.9465193,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Minneapolis, MN, 55410, USA</name>
+      <Point>
+        <coordinates>-93.3237824,44.9097852,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Minnesota</name>
+      <Point>
+        <coordinates>-94.6858998,46.7295530,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mission, TX 78572</name>
+      <Point>
+        <coordinates>-98.3258900,26.2147460,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mission, TX 78574 U.S</name>
+      <Point>
+        <coordinates>-98.3258900,26.2147460,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mississauga, Ontario, L5M 3M9, Canada</name>
+      <Point>
+        <coordinates>-79.6834670,43.5688080,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moorestown, NJ 08057, United States</name>
+      <Point>
+        <coordinates>-74.9422220,39.9655150,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moorestown, NJ, 08057, USA</name>
+      <Point>
+        <coordinates>-74.9422220,39.9655150,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morrisville, NY, 13408, USA</name>
+      <Point>
+        <coordinates>-75.6430480,42.8987360,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moulsoe, Buckinghamshire, MK16 0HB, UK</name>
+      <Point>
+        <coordinates>-0.7793123,52.1196753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mukilteo, WA, 98275, USA</name>
+      <Point>
+        <coordinates>-122.3072458,47.9020340,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York, NY, 11201, USA</name>
+      <Point>
+        <coordinates>-73.9918181,40.6945658,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York City</name>
+      <Point>
+        <coordinates>-73.9869510,40.7560540,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nairobi, Kenya</name>
+      <Point>
+        <coordinates>36.8131060,-1.2743590,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nanjing, Jiangsu, 210037, China</name>
+      <Point>
+        <coordinates>118.7692806,32.0652672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Naples, FL 34109 USA</name>
+      <Point>
+        <coordinates>-81.7677645,26.2422984,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nashville, TN, 37215, USA</name>
+      <Point>
+        <coordinates>-86.8320743,36.0802326,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Natick, MA, 01760, USA</name>
+      <Point>
+        <coordinates>-71.3472750,42.2837830,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Bedford, MA, 02745, USA</name>
+      <Point>
+        <coordinates>-70.9427914,41.6920942,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Britain, CT 06051 USA</name>
+      <Point>
+        <coordinates>-72.7747325,41.6669783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Britain, CT, 06053, USA</name>
+      <Point>
+        <coordinates>-72.7865518,41.6881608,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York City, NY, 10002, USA</name>
+      <Point>
+        <coordinates>-73.9859414,40.7184530,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York City, NY, 11375, USA</name>
+      <Point>
+        <coordinates>-73.8477874,40.7209975,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York, NY 10065</name>
+      <Point>
+        <coordinates>-73.9639021,40.7634980,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York, NY, 10009, USA</name>
+      <Point>
+        <coordinates>-73.9800645,40.7275043,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York, NY, 10024, USA</name>
+      <Point>
+        <coordinates>-73.9800645,40.7917182,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York, NY, 10028, USA</name>
+      <Point>
+        <coordinates>-73.9521468,40.7766412,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York, NY, 10036, US</name>
+      <Point>
+        <coordinates>-73.9903489,40.7598450,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York, NY, 10128, USA</name>
+      <Point>
+        <coordinates>-73.9492079,40.7811605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York, NY, 10471, United States</name>
+      <Point>
+        <coordinates>-73.9065883,40.8971509,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newark, NJ, 07108</name>
+      <Point>
+        <coordinates>-74.1973880,40.7235275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newport Beach, CA, 92657, United States</name>
+      <Point>
+        <coordinates>-117.8252814,33.5899613,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newton, MA 02459 USA</name>
+      <Point>
+        <coordinates>-71.1864397,42.3123393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newton, MA, 02459, USA</name>
+      <Point>
+        <coordinates>-71.1864397,42.3123393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ningbo, Zhejiang, China</name>
+      <Point>
+        <coordinates>121.5439900,29.8683360,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Norfolk, Virginia, 23505, United States</name>
+      <Point>
+        <coordinates>-76.2884592,36.9092377,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Andover, MA 01834</name>
+      <Point>
+        <coordinates>-71.0854325,42.6696364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Andover, MA 01845</name>
+      <Point>
+        <coordinates>-71.1373180,42.6953720,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Andover, MA, 01845, USA</name>
+      <Point>
+        <coordinates>-71.1373180,42.6953720,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Wales, PA 19454</name>
+      <Point>
+        <coordinates>-75.2782830,40.2109250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Northfield, VT, 05663, United States</name>
+      <Point>
+        <coordinates>-72.6555100,44.1518550,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Norwalk, CA, 90650, USA</name>
+      <Point>
+        <coordinates>-118.0771515,33.9143570,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Norwood, Ma, 02062, U.S.</name>
+      <Point>
+        <coordinates>-71.2042619,42.1772198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Novato, CA 94945</name>
+      <Point>
+        <coordinates>-122.5485873,38.1218145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Novi, MI, 48374, USA</name>
+      <Point>
+        <coordinates>-83.5176820,42.4756294,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nyack, NY, 10960, USA</name>
+      <Point>
+        <coordinates>-73.9182490,41.0909770,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oakland Gardens, NY, 11364, USA</name>
+      <Point>
+        <coordinates>-73.7566114,40.7400064,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oaklyn, New Jersey, 08107, USA</name>
+      <Point>
+        <coordinates>-75.0783780,39.9038740,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oakton, VA, 22124, United States</name>
+      <Point>
+        <coordinates>-77.3266991,38.8923513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Odessa, FL, 33556, USA</name>
+      <Point>
+        <coordinates>-82.5922580,28.1941470,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Okemos, MI 48864 USA</name>
+      <Point>
+        <coordinates>-84.4103700,42.7109610,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oregon City, OR, 97045, USA</name>
+      <Point>
+        <coordinates>-122.5966960,45.3519840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Owosso, MI, 48867, USA</name>
+      <Point>
+        <coordinates>-84.1767640,42.9975290,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PA</name>
+      <Point>
+        <coordinates>-77.1945247,41.2033216,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palm Harbor, FL 34683 U.S.</name>
+      <Point>
+        <coordinates>-82.7616822,28.0910357,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palm Harbor, FL, 34685, USA</name>
+      <Point>
+        <coordinates>-82.6861446,28.0986691,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palos Verdes Estates, CA, 90274, USA</name>
+      <Point>
+        <coordinates>-118.4042640,33.7921930,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palos Verdes, CA 90274 USA</name>
+      <Point>
+        <coordinates>-118.3520389,33.7793751,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paoli, PA, 19301, USA</name>
+      <Point>
+        <coordinates>-75.4858740,40.0418660,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paso Robles, CA, 93446, USA</name>
+      <Point>
+        <coordinates>-120.7579834,35.6573145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paso Robles, CA, 93446. USA</name>
+      <Point>
+        <coordinates>-120.7579834,35.6573145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peoria, IL, 61614</name>
+      <Point>
+        <coordinates>-89.5969060,40.7658303,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Perrysburg, OH 43551 USA</name>
+      <Point>
+        <coordinates>-83.6350950,41.5461060,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pittsburgh, PA, 15236, USA</name>
+      <Point>
+        <coordinates>-79.9808143,40.3467378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plano, TX, 75025</name>
+      <Point>
+        <coordinates>-96.7601057,33.0869379,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plano, Texas, 75074, United States</name>
+      <Point>
+        <coordinates>-96.6745042,33.0243206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plantation, FL 33317</name>
+      <Point>
+        <coordinates>-80.2209773,26.1218038,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plymouth, MN 55447</name>
+      <Point>
+        <coordinates>-93.4959133,44.9932921,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pompano Beach, FL, 33062, USA</name>
+      <Point>
+        <coordinates>-80.0953942,26.2447192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Washington, NY, 11050, USA</name>
+      <Point>
+        <coordinates>-73.6827100,40.8252490,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Potomac,MD, 20854, USA</name>
+      <Point>
+        <coordinates>-77.2006340,39.0263850,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Princeton, NJ, 08540, USA</name>
+      <Point>
+        <coordinates>-74.6597080,40.3496620,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Providence, RI</name>
+      <Point>
+        <coordinates>-71.4087180,41.8269560,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramona, CA, 92065, USA</name>
+      <Point>
+        <coordinates>-116.8733520,33.0393680,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Randolph, NJ, 07869, USA</name>
+      <Point>
+        <coordinates>-74.5814773,40.8482888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reading, MA, 01867, USA</name>
+      <Point>
+        <coordinates>-71.1092012,42.5412689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Redding, CA 96003 USA</name>
+      <Point>
+        <coordinates>-122.3766990,40.5731020,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Redding, CA 96003 United States</name>
+      <Point>
+        <coordinates>-122.3766990,40.5731020,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rego Park, NY, 11374, USA</name>
+      <Point>
+        <coordinates>-73.8624893,40.7255722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reno, NV 89509 USA</name>
+      <Point>
+        <coordinates>-119.8236554,39.4953787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Revere, MA</name>
+      <Point>
+        <coordinates>-71.0052670,42.4203230,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Revere, Mass, 02151, USA</name>
+      <Point>
+        <coordinates>-71.0081746,42.4149773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Richmond, VA, 23060, USA</name>
+      <Point>
+        <coordinates>-77.5275463,37.6632820,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ridgefield, CT 06877</name>
+      <Point>
+        <coordinates>-73.4887288,41.2928979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ridgewood, New Jersey, 07450, United States</name>
+      <Point>
+        <coordinates>-74.1125000,40.9838740,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riverdale, MD, 20737 USA</name>
+      <Point>
+        <coordinates>-76.9398560,38.9594710,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riverdale, MD, 20737, USA</name>
+      <Point>
+        <coordinates>-76.9398560,38.9594710,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riverside, CT 06878, United States</name>
+      <Point>
+        <coordinates>-73.5800245,41.0344402,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rolla, MO, 65401, USA</name>
+      <Point>
+        <coordinates>-91.7636210,37.9428130,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rubbestadneset, Bo?mlo, 5420, Norway</name>
+      <Point>
+        <coordinates>5.2679813,59.8154038,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rutland, Vermont, 05701, United States of America</name>
+      <Point>
+        <coordinates>-72.9722990,43.6086760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rye, NY, 10580, USA</name>
+      <Point>
+        <coordinates>-73.6948234,40.9848079,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salem, OH 44460</name>
+      <Point>
+        <coordinates>-80.8515540,40.9009580,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salt Lake City, Utah, 84102, USA</name>
+      <Point>
+        <coordinates>-111.8658015,40.7604900,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Anotino, TX, 78230, USA</name>
+      <Point>
+        <coordinates>-98.5556210,29.5420440,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Clemente, California, 92673, United States</name>
+      <Point>
+        <coordinates>-117.6141457,33.4653522,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Francisco, CA, 94114, USA</name>
+      <Point>
+        <coordinates>-122.4325682,37.7561438,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Francisco, CA, 94115, USA</name>
+      <Point>
+        <coordinates>-122.4382307,37.7877522,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Francisco, California, 94131, USA</name>
+      <Point>
+        <coordinates>-122.4382307,37.7401042,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Jose, CA</name>
+      <Point>
+        <coordinates>-121.8776360,37.3200520,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Jose, CA, 94539, USA</name>
+      <Point>
+        <coordinates>-121.9131761,37.5340363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Leandro, California, 94579, USA</name>
+      <Point>
+        <coordinates>-122.1575745,37.6851553,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Ana, CA, 92705, US</name>
+      <Point>
+        <coordinates>-117.7901088,33.7532358,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Barbara, CA 93108 USA</name>
+      <Point>
+        <coordinates>-119.5223715,34.4626936,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Cruz, CA, 95060</name>
+      <Point>
+        <coordinates>-122.0333160,36.9779050,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Cruz, CA, 95060, United States</name>
+      <Point>
+        <coordinates>-122.0333160,36.9779050,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria, CA, 93458, USA</name>
+      <Point>
+        <coordinates>-120.5048792,34.9516318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago, Chile, 7690813</name>
+      <Point>
+        <coordinates>-70.5532240,-33.5737412,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saratoga, CA 95070</name>
+      <Point>
+        <coordinates>-122.0208590,37.2664220,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saskatoon, Saskatchewan, S7N 0K9, Canada</name>
+      <Point>
+        <coordinates>-106.6567690,52.1210450,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Scituate, MA, 02066, USA</name>
+      <Point>
+        <coordinates>-70.7361500,42.1851200,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seattle, WA, 98040</name>
+      <Point>
+        <coordinates>-122.3371431,47.6781744,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sequim, Washington  98382  USA</name>
+      <Point>
+        <coordinates>-123.1076760,48.0796380,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Setauket, New York, 11733, United States</name>
+      <Point>
+        <coordinates>-73.1188890,40.9350000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shawnigan Lake, BC, V0R 2W1, Canada</name>
+      <Point>
+        <coordinates>-123.6270960,48.6179110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shenzhen, Guangdong, 518000, China</name>
+      <Point>
+        <coordinates>114.1015690,22.5421410,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sherborn, MA, 01770, USA</name>
+      <Point>
+        <coordinates>-71.3691600,42.2386800,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sherman Oaks, California, 91403, United States</name>
+      <Point>
+        <coordinates>-118.4487030,34.1508400,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Singapore</name>
+      <Point>
+        <coordinates>103.8198360,1.3520830,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skaneateles, NY, 13152, U.S.A.</name>
+      <Point>
+        <coordinates>-76.4278270,42.9456500,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solon, OH 44139 United States</name>
+      <Point>
+        <coordinates>-81.4498717,41.3830630,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Somerville, MA 02143</name>
+      <Point>
+        <coordinates>-71.0943459,42.3798626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Somerville, MA 02144</name>
+      <Point>
+        <coordinates>-71.1240559,42.3991718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Somerville, MA 02144 USA</name>
+      <Point>
+        <coordinates>-71.1240559,42.3991718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Somerville, MA, 02143, USA</name>
+      <Point>
+        <coordinates>-71.0943459,42.3798626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Somerville, MA, 02144, US</name>
+      <Point>
+        <coordinates>-71.1240559,42.3991718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Kingstown, RI, 02874, USA</name>
+      <Point>
+        <coordinates>-71.4655565,41.5105013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Pasadena, CA, 91030, USA</name>
+      <Point>
+        <coordinates>-118.1573080,34.1119250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spring Hill, FL, 34608, US</name>
+      <Point>
+        <coordinates>-82.5564559,28.4869095,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Springfield, VA, 22151, USA</name>
+      <Point>
+        <coordinates>-77.1887747,38.8051008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Paul, MN, 55108, U.S.A</name>
+      <Point>
+        <coordinates>-93.1755241,44.9792976,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Petersburg, Florida, 33704, USA</name>
+      <Point>
+        <coordinates>-82.6321376,27.7929237,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>State College, PA, 16801, USA</name>
+      <Point>
+        <coordinates>-77.8582300,40.7866970,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>State College, PA, 16803, USA</name>
+      <Point>
+        <coordinates>-77.8582300,40.7866970,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stoneham, MA 02180 US</name>
+      <Point>
+        <coordinates>-71.0913748,42.4766331,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stony Brook, NY 11733</name>
+      <Point>
+        <coordinates>-73.1320510,40.9047670,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sudbury, MA, 01776, United States</name>
+      <Point>
+        <coordinates>-71.4180622,42.3846590,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sugar Land, TX, 77479, USA</name>
+      <Point>
+        <coordinates>-95.6352801,29.5654066,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Summerland, British Columbia, V0H 1Z9, Canada</name>
+      <Point>
+        <coordinates>-119.6259200,49.5756000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Summit, NJ, 07901, USA</name>
+      <Point>
+        <coordinates>-74.3646122,40.7146376,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunnyvale, CA 94087</name>
+      <Point>
+        <coordinates>-122.0326019,37.3492097,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunnyvale, CA 94087, USA</name>
+      <Point>
+        <coordinates>-122.0326019,37.3492097,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Swarthmore, PA 19081, USA</name>
+      <Point>
+        <coordinates>-75.3506010,39.9019680,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tacoma, WA 98407, USA</name>
+      <Point>
+        <coordinates>-122.5134478,47.2887352,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tampa, FL 33556</name>
+      <Point>
+        <coordinates>-82.5834947,28.1222486,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tampa, FL 33556, USA</name>
+      <Point>
+        <coordinates>-82.5834947,28.1222486,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tampa, FL, 33609, USA</name>
+      <Point>
+        <coordinates>-82.5104655,27.9407591,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teaneck, NJ, 07666 USA</name>
+      <Point>
+        <coordinates>-74.0123851,40.8924932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terre Haute, IN 47802</name>
+      <Point>
+        <coordinates>-87.4140450,39.4664790,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Colony, TX, 75056, US</name>
+      <Point>
+        <coordinates>-96.8983800,33.0934000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toronto, Ontario, L3T 2P5, Canada</name>
+      <Point>
+        <coordinates>-79.3916050,43.8205895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toronto, Ontario, L6A0N7, Canada</name>
+      <Point>
+        <coordinates>-79.3867550,43.6702330,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toronto, Ontario, M4X 1N2, Canada</name>
+      <Point>
+        <coordinates>-79.3734540,43.6704770,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Townsend, MA 01469</name>
+      <Point>
+        <coordinates>-71.7058110,42.6669620,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tulsa, OK 74137</name>
+      <Point>
+        <coordinates>-95.9304039,36.0190424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tulsa, Oklahoma, 74114, United States</name>
+      <Point>
+        <coordinates>-95.9488975,36.1237711,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tuscaloosa, AL, 02138 USA</name>
+      <Point>
+        <coordinates>-86.0357109,34.0285598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>USA</name>
+      <Point>
+        <coordinates>-95.7128910,37.0902400,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United Kingdom</name>
+      <Point>
+        <coordinates>-3.4359730,55.3780510,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States</name>
+      <Point>
+        <coordinates>-95.7128910,37.0902400,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valparaiso, IN, 46385, USA</name>
+      <Point>
+        <coordinates>-87.0552750,41.4781790,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vestal, New York, 13850, USA</name>
+      <Point>
+        <coordinates>-76.0554030,42.0856110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vienna, Austria</name>
+      <Point>
+        <coordinates>16.3727778,48.2092062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Villanova, PA, 19085, USA</name>
+      <Point>
+        <coordinates>-75.3820239,40.0226776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wadmalaw Island, 29487</name>
+      <Point>
+        <coordinates>-80.1763467,32.6594570,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waldorf, MD, 20601, United States</name>
+      <Point>
+        <coordinates>-76.8987090,38.6382240,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Walnut Creek, CA, 94597</name>
+      <Point>
+        <coordinates>-122.0780632,37.9193365,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waltham, MA 02453 USA</name>
+      <Point>
+        <coordinates>-71.2458436,42.3699500,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Washington, DC, 20016, USA</name>
+      <Point>
+        <coordinates>-77.0967357,38.9387704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wassenaar, Zuid-Holland, 2241JS, The Netherlands</name>
+      <Point>
+        <coordinates>4.4098891,52.1434692,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Watkins Glen, NY, 14891, USA</name>
+      <Point>
+        <coordinates>-76.8674490,42.3823360,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wellington, FL, 33414, United States</name>
+      <Point>
+        <coordinates>-80.2432839,26.6374761,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Lafayette, IN, 47906, USA</name>
+      <Point>
+        <coordinates>-86.9157560,40.4481620,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Roxbury, MA, 02132, United States</name>
+      <Point>
+        <coordinates>-71.1626756,42.2797554,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westborough, MA, 01581, USA</name>
+      <Point>
+        <coordinates>-71.6161300,42.2667000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Weston, MA 02493</name>
+      <Point>
+        <coordinates>-71.2992993,42.3647113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Weston, MA, 02493, USA</name>
+      <Point>
+        <coordinates>-71.2992993,42.3647113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westwood, MA, 02090, USA</name>
+      <Point>
+        <coordinates>-71.2280234,42.2193849,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wheeling, IL, 60090 USA</name>
+      <Point>
+        <coordinates>-87.9285777,42.1336974,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wilbraham, MA, 01095, United States</name>
+      <Point>
+        <coordinates>-72.4299110,42.1356100,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Windsor, Ontario, Canada</name>
+      <Point>
+        <coordinates>-83.0368250,42.3141110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodhull, IL, 61490, USA</name>
+      <Point>
+        <coordinates>-90.3176530,41.1769250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodland Hill, CA 91303</name>
+      <Point>
+        <coordinates>-67.7053900,46.7301110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodridge, IL, 60517, USA</name>
+      <Point>
+        <coordinates>-88.0460894,41.7490682,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodside, CA, 94062, US</name>
+      <Point>
+        <coordinates>-122.2618080,37.4273340,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Worthington, OH, 43085, US</name>
+      <Point>
+        <coordinates>-83.0175930,40.0960310,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Worthington, Ohio, 43085, US</name>
+      <Point>
+        <coordinates>-83.0175930,40.0960310,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Xinyang, Henan, 464000, P. R. China</name>
+      <Point>
+        <coordinates>114.0755220,32.1176100,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yarmouth, Maine, 04096, USA</name>
+      <Point>
+        <coordinates>-70.1868020,43.8006290,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,20 @@
+i. That both strings are equal. Also, -1 means the first string is lower and 1 means higher (alphabetically.)
+
+ii. Code:
+
+int max;
+if (!strcmp(g.level, "debug")) {
+	max = 9;
+} else {
+	max = 1024;
+}
+
+iii. In case user inputted some character other than plain numbers and trailing spaces as the second command-line argument.
+
+iv. int y, x;
+
+v. show_cursor()
+
+vi. One could insert new cases for the switch statement at line 189.
+
+vii. #1 = 1 blank, #2 = 2 blanks, #9 = 9 blanks

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Adicionar contato</title>
+</head>
+<body>
+  <h1>Adicionar contato</h1>
+  <form id="adicionaContatoForm" action="adicionaContato" method="post">
+    <div>
+      <div>
+        <span>Nome:</span> <input type="text" name="nome" />
+      </div>
+      <div>
+        <span>E-mail:</span> <input type="text" name="email" />
+      </div>
+      <div>
+        <span>Endereço:</span> <input type="text" name="endereco" />
+      </div>
+      <div>
+        <span>Data Nascimento:</span> <input type="text" name="dataNascimento" placeholder="DD/MM/AAAA" />
+      </div>
+      <div>
+        <span>Telefone:</span> <input type="text" name="telefone" />
+      </div>
+      <div>
+        <input type="submit" value="Gravar" />
+      </div>
+    </div>
+  </form>
+
+  <script src="scripts/jquery-1.11.1.js"></script>
+  <script src="scripts/jquery.validate.js"></script>
+  <script src="scripts/date.js"></script>
+
+  <script>
+			$.validator.addMethod("brazilianDate", function(value, element) {
+				return Date.parseExact(value, "d/M/yyyy");
+			});
+
+			$().ready(function() {
+				$("#adicionaContatoForm").validate({
+					rules : {
+						dataNascimento : {
+							brazilianDate : true
+						},
+						telefone : {
+							number : true
+						}
+					},
+					messages : {
+						dataNascimento : {
+							brazilianDate : 'Data inválida!'
+						},
+						telefone : {
+							number : 'Apenas números são permitidos'
+						}
+					}
+				});
+			});
+		</script>
+</body>
+</html>

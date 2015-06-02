@@ -1,0 +1,26 @@
+0.
+
+A factitious word alleged to mean 'a lung disease caused by the inhalation of very fine silica dust, causing inflammation in the lungs.'
+
+1.
+
+The function getrusage() gets resource usage for the current process, it's children or the calling thread.
+
+2.
+
+16 members (2 structs and 14 longs)
+
+3.
+
+To avoid copying the entire structure as a parameter, maybe. (?)
+
+4.
+
+The for loops gets a single character from the file at a time.
+
+If the character is a letter (or an apostrophe from 2o. character in the word on) it is appended to string 'word', otherwise if it's a number or more than LENGTH characters long, the input is skipped until the next valid letter is reached and the contents of word is ignored. If a non-alphanumeric character is reached, consider the content of word to be a complete word and run a check on it, calculating time spent checking each word.
+
+5.
+
+fscanf() would rely only on spaces to separate each world and is vulnerable to buffer overflows because it is unable to tell the size of the char array passed as it's parameter. Reading a character at a time and checking it gives more control of input.
+

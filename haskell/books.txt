@@ -1,0 +1,17 @@
+Erik Meijer’s List of Books
+
+**** 0. Programming in Haskell http://www.cs.nott.ac.uk/~gmh/book.html#slides
+1. Logic and Computation: Interactive Proof with Cambridge LCF (Cambridge Tracts in Theoretical Computer Science) (Paperback)
+2. Mathematical Theory of Programme Correctness (Prentice-Hall International series in computer science) (Hardcover)
+*** 3. The Haskell School of Expression: Learning Functional Programming through Multimedia (Paperback)
+4. LaTeX: A Document Preparation System (2nd Edition) (Paperback)
+** 5. Denotational Semantics http://people.cis.ksu.edu/~schmidt/text/densem.html
+6. Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory (Paperback)
+7. Programs and Machines
+8. The Denotational Description of Programming Languages: An Introduction (Paperback)
+** 9. Erik Meijer’s Thesis – Calculating Compilers http://research.microsoft.com/en-us/um/people/emeijer/Papers/Thesis.pdf
+10. Lectures on the Logic of Computer Programming (CBMS-NSF Regional Conference Series in Applied Mathematics) (Paperback)
+11. Erlang – Joe Armstrong
+12. The Algebra of Programming (Prentice-Hall International Series in Computer Science) (Hardcover)
+13. Algorithmic Language and Program Development (Monographs in Computer Science) (Hardcover)
+14. Algebraic Approaches to Program Semantics (Texts and Monographs in Computer Science) (Hardcover)

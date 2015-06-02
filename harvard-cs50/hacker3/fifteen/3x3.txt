@@ -1,0 +1,47 @@
+#a solution to (8 7 6) (5 4 3) (2 1 _)
+#move 1 to top-left corner
+3
+4
+1
+2
+5
+1
+7
+8
+1
+
+#move 2 to top-right corner
+7
+2
+3
+4
+2
+8
+6
+2
+
+#move 3 below 2
+4
+3
+8
+4
+3
+
+#slide 2 left and put 3 in position
+8
+4
+6
+2
+3
+
+#slide 4 below 1
+6
+4
+5
+7
+4
+
+#finish
+5
+8
+

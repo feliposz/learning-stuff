@@ -1,0 +1,34 @@
+The Design Recipe for Functions:
+
+Problem Analysis & Data Definition
+Contract, Purpose & Effect Statements, Header
+Examples
+Function Template
+Function Definition
+Tests
+
+
+
+the description of the class of problem data;
+
+the informal specification of a program's behavior;
+
+the illustration of the behavior with examples;
+
+the development of a program template or layout;
+
+the transformation of the template into a complete definition; and
+
+the discovery of errors through testing.
+
+
+
+analyze a problem statement, typically stated as a word problem;
+
+express its essence, abstractly and with examples;
+
+formulate statements and comments in a precise language;
+
+evaluate and revise these activities in light of checks and tests; and
+
+pay attention to details.

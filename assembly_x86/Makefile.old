@@ -1,0 +1,76 @@
+CC=gcc
+ASM=nasm
+ASMFLAGS=-f win32
+RM=del
+ASMBASE=driver.obj asm_io.obj
+EXES=first.exe skel.exe inteiros1.exe inteiros2.exe prob_div.exe inteiros3.exe inteiros4.exe compara.exe primes.exe
+OBJS=first.obj skel.obj inteiros1.obj inteiros2.obj prob_div.obj inteiros3.obj inteiros4.obj compara.obj primes.obj driver.obj
+
+all: $(EXES)
+
+clean:
+	$(RM) $(OBJS) $(EXES)
+
+driver.obj: driver.c
+	$(CC) -c $^ -o $@
+	
+first.exe: $(ASMBASE) first.obj
+	$(CC) $^ -o $@
+
+first.obj: first.asm
+	$(ASM) $(ASMFLAGS) $^
+
+skel.exe: $(ASMBASE) skel.obj
+	$(CC) $^ -o $@
+
+skel.obj: skel.asm
+	$(ASM) $(ASMFLAGS) $^
+
+inteiros1.exe: $(ASMBASE) inteiros1.obj
+	$(CC) $^ -o $@
+	
+inteiros1.obj: inteiros1.asm 
+	$(ASM) $(ASMFLAGS) $^
+	
+inteiros2.exe: $(ASMBASE) inteiros2.obj
+	$(CC) $^ -o $@
+	
+inteiros2.obj: inteiros2.asm 
+	$(ASM) $(ASMFLAGS) $^
+	
+prob_div.exe: $(ASMBASE) prob_div.obj
+	$(CC) $^ -o $@
+	
+prob_div.obj: prob_div.asm 
+	$(ASM) $(ASMFLAGS) $^
+
+inteiros3.exe: $(ASMBASE) inteiros3.obj
+	$(CC) $^ -o $@
+	
+inteiros3.obj: inteiros3.asm 
+	$(ASM) $(ASMFLAGS) $^
+	
+math.exe: $(ASMBASE) math.obj
+	$(CC) $^ -o $@
+	
+math.obj: math.asm 
+	$(ASM) $(ASMFLAGS) $^
+
+inteiros4.exe: $(ASMBASE) inteiros4.obj
+	$(CC) $^ -o $@
+	
+inteiros4.obj: inteiros4.asm 
+	$(ASM) $(ASMFLAGS) $^
+
+compara.exe: $(ASMBASE) compara.obj
+	$(CC) $^ -o $@
+	
+compara.obj: compara.asm 
+	$(ASM) $(ASMFLAGS) $^
+
+primes.exe: $(ASMBASE) primes.obj
+	$(CC) $^ -o $@
+
+primes.obj: primes.asm
+	$(ASM) $(ASMFLAGS) $^	
+	

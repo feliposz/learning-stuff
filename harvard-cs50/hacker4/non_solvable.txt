@@ -1,0 +1,5 @@
+some examples of puzzles that can't be solved by the single-possible-digit algorithm
+
+n00b 1006
+n00b 478
+most l33t puzzles (exceptions: 747, 240, 162, 209)

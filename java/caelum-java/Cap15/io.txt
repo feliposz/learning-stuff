@@ -1,0 +1,8 @@
+FileInputStream -> Read raw/binary data
+FileReader -> Read streams of characters
+InputStreamReader -> Converte uma stream raw de bytes para uma stream de caracteres com encoding opcional (UTF-8, ISO-8869-1, etc.)
+BufferedReader -> Para uma leitura mais eficiente da entrada. Ex.: BufferedReader in = new BufferedReader(new FileReader("foo.in"));
+
+FileOutputStream -> Write raw/binary data
+OutputStreamWriter -> Permite gravar caracteres em uma stream binária
+BufferedWriter -> Converte uma stream de saída sem buffer para com buffer.

@@ -1,0 +1,30 @@
+Qual é a sua necessidade com o Java?
+
+Precisa fazer algoritmos de redes neurais?
+    Neuroph
+    WEKA
+
+Gerar gráficos 3D?
+    Java3D
+
+Relatórios em PDF?
+    Apache PDFBox
+    iText
+
+Gerar código de barra?
+    Barcode4J
+    Barbecue
+    Java Barcode Generator
+
+Gerar boletos?
+    Bopepo
+    Stella Boleto (Caelum)
+
+Validar CPF?
+    Stella Validation (Caelum)
+
+Mexer com um arquivo do Excel?
+    JExcelApi
+    JXL
+    Apache POI
+

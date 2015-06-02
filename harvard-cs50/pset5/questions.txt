@@ -1,0 +1,90 @@
+0.
+
+BMP support 2, 4, 16, 65536, ~16 millions or ~4 billion colors
+GIF supports up to 256 colors
+JPEG support 16 million
+PNG support 16 million + alpha channel
+
+1.
+
+GIF supports animation. BMP, JPEG and PNG don't.
+
+2.
+
+Lossless compression preserves the exact same image at a pixel level than the original.
+Lossy compression implements a way to compress image in wich there is a minor quality loss, but also reducing the total size of the data.
+
+3.
+
+JPEG is a lossy-compressed format.
+
+4.
+
+In the file directory table, the first letter of the file name is replaced by a '?' character.
+Then the OS moves the block addresses from the list of blocks used by the file, to the list of free blocks.
+The actual blocks containing the file data is not changed.
+
+5.
+
+Before deleting the file, overwriting it's content with all 0's, all 1's, or random data.
+If the file has been deleted, use some tool to overwrite data in unused disk space.
+If entire disk should be discarded, use a tool to overwrite data in the whole disk.
+
+6.
+
+stdint.h is a header file introduced by the C99 standard that allows developers to write more portable code by specifying types of fixed width. Ex: uint32_t is always an unsigned integer value of 32-bits in every platform.
+
+7.
+
+Using such types will make it possible to exchange data with other programs, maybe in different architectures in a predictable manner, since the values will always have the same width in bytes. It's useful, for example, when reading/writing a binary file or sending/receiving binary data through a network.
+
+8.
+
+BYTE = 1 byte
+DWORD = 4 bytes
+LONG = 4 bytes
+WORD = 2 bytes
+
+9.
+
+ASCII = BM
+Decimal = 66 77
+Hexadecimal = 42 4D
+
+10.
+
+bfSize is the size of the file
+biSize is the number of bytes required by the BITMAPINFOHEADER structure
+
+11.
+
+Lines in a bitmap image are usually stored reversed. The first line in the file is the bottom line in the image. When the biHeight is negative, the lines are stored in regular order, i.e., the first line in the file is the top line in the image.
+
+12.
+
+biBitCount
+
+13.
+
+It may return NULL if file is not accessible, i.e., file doesn't exist or user has no permission to read from the file.
+
+14.
+
+The third argument to fread is the number of elements to read from the file. The number 1 is passed because only 1 element of the size passed in the second argument is read.
+
+15.
+
+3
+
+16.
+
+fseek reposition a stream to a given offset, relative to the 3rd parameter passed, whence.
+
+17.
+
+SEEK_CUR is passed as the 3rd parameter to fseek (whence) to indicate the given offset is relative to the current position in the file as opposed to SEEK_SET (start of file) and SEEK_END (end-of-file).
+
+18.
+
+It was Professor Plum in the lounge with the candlestick.
+

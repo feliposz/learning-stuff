@@ -1,0 +1,90 @@
+/****************************************************************************
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global stylesheet.
+ ***************************************************************************/
+
+
+/* eliminate borders around images in anchor tags */
+a img
+{
+    border: 0;
+}
+
+/* defaults for body */
+body
+{
+    font-family: serif;
+    font-size: 150%;
+	margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+/* center text in top div */
+div#top
+{
+	background: #ffffff;
+	border-bottom: 3px red solid; 
+    text-align: center;
+}
+
+/* center text in middle div */
+div#middle
+{
+	background: #ffffc0;
+    text-align: center;
+    padding: 10px;
+}
+
+/* center text in bottom div */
+div#bottom
+{
+	background: #c0ffc0;
+	color: green;
+    text-align: center;
+    border-top: 3px blue solid;
+    height: 100px;
+}
+
+
+/* eliminate margins around forms */
+form
+{
+    margin: 0;
+}
+
+p, h1, h2
+{
+	margin: 0;	
+}
+
+/* center tables */
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+	border-collapse:collapse;
+}
+
+.listing td {
+	border: 2px black solid;
+	margin: 0;
+	padding: 5px;
+}
+
+/* eliminate borders around table cells */
+td
+{
+	text-align: left;
+    border: 0;
+}
+
+a:link { color: green; }
+a:visited { color: green; }
+a:active { color: black; }
+a:hover { color: black; }
