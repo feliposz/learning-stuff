@@ -1,0 +1,4 @@
+{ 
+    "name" : "modpasta",
+    "main" : "./principal.js"
+}
