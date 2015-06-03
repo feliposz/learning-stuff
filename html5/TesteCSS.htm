@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Teste CSS</title>
+
+<style>
+li:first-child { color: #88F; }
+li:nth-child(3) { color: #8F8; }
+li:nth-child(3n+6) { color: #F88; }
+p:hover { color: red; }
+p::first-letter { font-size: xx-large; }
+p::first-line { font-size: large; }
+[data-author$=smith] { color:green; }
+ul ~ div { background-color: #ccc; }
+.bold { font-weight: bold; }
+div.fancy { font-style: italic; }
+</style>
+
+</head>
+<body>
+
+<div id="Div1">
+    <p>Lorum ipsum</p>
+    <ul>
+        <li>dolar</li>
+        <li>sit</li>
+        <li>amet</li>
+    </ul>
+
+    <ul>
+        <li>dolar</li>
+        <li>sit</li>
+        <li>amet</li>
+        <li>dolar</li>
+        <li>sit</li>
+        <li>amet</li>
+        <li>dolar</li>
+        <li>sit</li>
+        <li>amet</li>
+        <li>dolar</li>
+        <li>sit</li>
+        <li>amet</li>
+    </ul>
+
+    <table id="myTable" data-author="psmith">
+        <tr><td>2012</td><td>75</td></tr>
+        <tr><td>2011</td><td>67</td></tr>
+        <tr><td>2010</td><td>58</td></tr>
+    </table>
+
+    <div class="fancy bold">1</div>
+    <div class="fancy bold">2</div>
+    <div id="lorem">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+	Etiam congue lacus non magna pulvinar mollis.	Donec vulputate
+	turpis sit amet risus lacinia sollicitudin egestas lorem
+	aliquam. Pellentesque eu felis nunc, nec pulvinar turpis.
+	Vivamus non tempus ipsum. Ut dictum facilisis lacus, at
+	sodales turpis rhoncus at. Cras imperdiet commodo porta. Ut
+	ac erat sapien.</p>
+    </div>
+</div>
+
+</body>
+</html>

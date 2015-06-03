@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="latin-1" />
+  <title>SandBoxJumpStart</title>
+</head>
+<body style="background-color: #303030;">
+  <section style="margin-left:120px; margin-top:45px">
+    <hgroup>
+      <h1>CanvasBall</h1>
+      <h2>Demo</h2>
+    </hgroup>
+
+    <section aria-label="Main content" role="main">
+      <canvas id="canvas" width="320" height="240"></canvas>
+    </section>
+
+    <script type="text/javascript" language="Javascript">
+      var dx = 5, dy = 5, r = 20, x = r, y = r;
+
+      var c = document.getElementById("canvas").getContext("2d");
+
+      setInterval(function () { draw(); step(); }, 10);
+
+      function draw() {
+          c.clearRect(0, 0, c.canvas.width, c.canvas.height);
+
+          c.fillStyle = "rgb(255,255,255)";
+          c.fillRect(0, 0, c.canvas.width, c.canvas.height);
+
+          c.beginPath();
+          c.fillStyle = "darkorange";
+          c.arc(x, y, r, 0, Math.PI * 2, true);
+          c.closePath();
+          c.fill();
+      }
+
+      function step() {
+          if (x > c.canvas.width - r || x < r) dx *= -1;
+          if (y > c.canvas.height - r || y < r) dy *= -1;
+          x += dx;
+          y += dy;
+      }
+    </script>
+
+  </section>
+</body>
+</html>
